@@ -1,0 +1,26 @@
+{
+  "name": "tertiary",
+  "displayName": "Tertiary",
+  "description": "Tertiary colours, designed to be easy on the eye",
+  "version": "1.0.0",
+  "publisher": "ObjectiveTester",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tertiary",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tertiary-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ObjectiveTester/Tertiary-theme-vscode.git"
+  }
+}
